@@ -1,0 +1,20 @@
+
+
+.form-search{
+    width: 100%;
+}
+
+.dox-SearchPanel-ItemStatusFilter{
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+.input-group{
+    margin: 0 !important;
+    margin-right: 20px !important;
+}
+.input-group-text{
+
+    color: #208EFE;
+}

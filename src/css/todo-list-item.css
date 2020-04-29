@@ -1,0 +1,121 @@
+
+.done{
+    text-decoration: line-through !important;
+}
+
+.important{
+    font-weight: 700 !important;
+}
+.todo-list-item{
+    font-size: 20px;
+    color: #575356;
+    font-weight: 600;
+    transition: .3s;
+}
+.isСompletedC{
+    display: none;
+}
+.isСompletedL{
+    border: 1px solid #208EFE;
+    border-radius: 20px;
+}
+
+.isСompletedL{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+
+    transition: .3s;
+    cursor: pointer;
+}
+.isСompletedL:before{
+    position: absolute;
+    content: "";
+    display: block;
+    top: 2px;
+    left: 7px;
+    width: 8px;
+    height: 14px;
+    border-style: solid;
+    border-color: white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+    opacity: 0;
+}
+
+.isСompletedL:hover{
+    border: 1px solid transparent;
+    transition: .3s;
+}
+.isСompletedL:hover .spanFas{
+    opacity: 0.5;
+}
+
+.spanComplited{
+    opacity: 1 !important;
+}
+
+.spanFas{
+   opacity: 0;
+   color: #208EFE;
+}
+
+.main-group{
+    margin: 10px 0!important;
+}
+.main-group:hover .todo-list-item{
+    color: #fff;
+    background-color: #208EFE;
+    transition: .3s;
+}
+.isСompleted, .isImportantC{
+    display: none;
+}
+
+.importmant-item{
+    background-color:#fd780a !important;
+    color: #fff !important;
+}
+
+.isImportantL{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    border: 1px solid #fd780a;
+    cursor: pointer;
+}
+.span-delete, .spanInportant{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spanInportant{
+    font-size: 14px;
+    color: #fd780a;
+}
+.spanInportantCheck{
+    color: #fff;
+    background-color:#fd780a;
+}
+
+.delete-btn{
+    width: 25px;
+    height: 25px;
+    border: 2px solid rgba(198, 52, 52, 0.67);
+    background-color: #fff;
+    cursor: pointer;
+}
+.span-delete{
+    color: #c94453;
+    font-size: 14px;
+}

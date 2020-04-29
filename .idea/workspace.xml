@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f24df62d-a485-404a-8c32-151e1dda8782" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="todo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQqRp6Yn3L54bwpa13cS7d9DxK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowFind.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+    <property name="ts.external.directory.path" value="D:\Programm\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB\React\project\todo\public" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f24df62d-a485-404a-8c32-151e1dda8782" name="Default Changelist" comment="" />
+      <created>1584781659930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584781659930</updated>
+      <workItem from="1584781684780" duration="301000" />
+      <workItem from="1584782044853" duration="706000" />
+      <workItem from="1584782802133" duration="4325000" />
+      <workItem from="1584787552955" duration="2916000" />
+      <workItem from="1584791310700" duration="647000" />
+      <workItem from="1584791975834" duration="16438000" />
+      <workItem from="1584889541924" duration="2640000" />
+      <workItem from="1584950331663" duration="3714000" />
+      <workItem from="1584980761851" duration="5727000" />
+      <workItem from="1585054440307" duration="970000" />
+      <workItem from="1585056802799" duration="1171000" />
+      <workItem from="1585063811221" duration="82000" />
+      <workItem from="1585063942956" duration="438000" />
+      <workItem from="1585067747269" duration="4951000" />
+      <workItem from="1585122601786" duration="5354000" />
+      <workItem from="1585210482021" duration="28090000" />
+      <workItem from="1585406474255" duration="7885000" />
+      <workItem from="1585420582632" duration="6713000" />
+      <workItem from="1585466395184" duration="10522000" />
+      <workItem from="1585480482778" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584783454784">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1600.860@0.0.1600.860" timestamp="1584783454784" />
+    <state x="405" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584792260280">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="405" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1584792260280" />
+    <state x="566" y="266" key="FileChooserDialogImpl" timestamp="1584782752208">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="566" y="266" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584782752208" />
+    <state x="199" y="80" width="998" height="708" key="SettingsEditor" timestamp="1585218455293">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="199" y="80" width="998" height="708" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1585218455293" />
+    <state x="833" y="148" width="672" height="678" key="search.everywhere.popup" timestamp="1584801332234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="833" y="148" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584801332234" />
+  </component>
+</project>

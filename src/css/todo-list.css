@@ -1,0 +1,8 @@
+.todo-list{
+    list-style: none;
+}
+.todo-list-item-external{
+    transition: .3s;
+    border-color: #cdd1d8;
+}
+

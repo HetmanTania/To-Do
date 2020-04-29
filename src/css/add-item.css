@@ -1,0 +1,17 @@
+
+.input-add-item{
+    padding: 10px  !important;
+}
+
+.dtn-add-item{
+    border: 1px solid #208EFE;
+}
+
+.dtn-add-item:hover{
+    border: 1px solid #208EFE;
+    background-color: #208EFE;
+}
+.form-add-item {
+    display: flex;
+    width: 100%;
+}

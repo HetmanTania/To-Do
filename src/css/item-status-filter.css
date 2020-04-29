@@ -1,0 +1,17 @@
+.btn-filter{
+    background-color: #fff;
+    border: 1px solid #208EFE;
+    color: #208EFE;
+}
+
+.btn-filter:hover,  .active{
+    color: #fff;
+    background-color: #208EFE !important;
+    border: 1px solid #208EFE !important
+}
+
+.active{
+    color: #fff;
+    background-color: #208EFE !important;
+    border: 1px solid #208EFE !important
+}

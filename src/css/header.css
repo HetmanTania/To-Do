@@ -1,0 +1,20 @@
+.head-toDo {
+    color: #208EFE;
+
+    text-shadow: 
+     rgb(23, 90, 162) 1px 1px,
+     rgb(23, 90, 162) 2px 2px,
+     rgb(23, 90, 162) 3px 3px,
+     rgb(23, 90, 162) 4px 4px,
+     rgb(23, 90, 162) 5px 5px,
+     rgb(23, 90, 162) 6px 6px,
+     rgb(23, 90, 162) 7px 7px,
+     rgb(23, 90, 162) 8px 8px,
+     rgb(23, 90, 162) 9px 9px,
+     rgb(23, 90, 162) 1px 1px;
+    height: 100%;
+    width: 100%;
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 40px;
+}
